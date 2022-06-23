@@ -19,19 +19,41 @@
 .lista-ferramenta{
     display: flex;
     direction: column;
-    text-decoration: none;
+    justify-content: center;
 }
 .minhaimagem{
     padding: 48px;
     height: 430px;
 }
+.lista{
+    list-style: none;
+}
 
 .htmlimage{
     height: 200px;
-    
+    margin-bottom: 20px;
+    margin-top: 20px;
  
+}
+.htmlexpli{
+    color: #FFF2E7;
+    font-size: 24px;
+    text-align: center;
+    height: 200px;
+    margin-top: 25px;
 }
 .cssimage{
     height: 200px;
+    margin-top: 30px;
+}
+.linha{
     
 }
+.cssexpli{
+    color: #FFF2E7;
+    font-size: 24px;
+    text-align: center;
+    height: 200px;
+    margin-top: 30px;
+}
+
